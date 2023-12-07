@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+h:\практика\практика 6\unittest1\unittest1.cpp(14): error C2065: a: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(15): error C2065: b: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(16): error C2065: n: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(17): error C2065: a: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(17): error C2065: b: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(17): error C2065: n: необъявленный идентификатор
+h:\практика\практика 6\unittest1\unittest1.cpp(17): error C3861: reshenie: идентификатор не найден
+h:\практика\практика 6\unittest1\unittest1.cpp(17): error C2661: Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual: нет перегруженной функции, принимающей 1 аргументов
+h:\практика\практика 6\unittest1\unittest1.cpp(18): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
